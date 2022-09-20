@@ -49,7 +49,7 @@ namespace Calculs
                         }
                         else
                         {
-                            Console.WriteLine("Faux : " + val1 + " + " + val2 + " = " + solution);
+                            Console.WriteLine("Faux : XD " + val1 + " + " + val2 + " = " + solution);
                         }
                     }
                     else
